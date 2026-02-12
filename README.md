@@ -48,7 +48,6 @@ State Management: Redux or TanStack Query
 Styling:  CSS / Styled-components
 
 💻 핵심 구현 사항 (Core Implementations)
-본 프로젝트에서 제가 담당하여 구현한 주요 기술적 상세 내용은 다음과 같습니다.
 
 1. 외부 API 연동 및 데이터 가공 (External API Integration)
   다양한 출처의 데이터를 통합하여 사용자에게 일관된 정보를 제공하기 위해 API 통신 및 데이터 파싱 로직을 구축했습니다.
